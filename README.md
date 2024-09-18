@@ -1,3 +1,6 @@
+
+
+
 <h3 align="left">Salve ✌🏾! Meu nome é Paulo Henrique e gostaria de compartilhar um pouco sobre quem sou…</h3><p>Sou um desenvolvedor em início de carreira com uma paixão por backend e uma sólida bagagem em front-end (HTML, CSS, JavaScript, Bootstrap). Estou mergulhando no mundo do Kotlin, Java e Spring Boot, e também trabalhando com JasperSoft Studio e iReport para relatórios. Uso PostgreSQL para queries e integração de dados.<br><br>Adoro colaborar com equipes e ver como a tecnologia pode transformar o dia a dia das pessoas. Recentemente, ajudei a criar um sistema de agendamento para um petshop. Sempre valorizo responsabilidade e cooperação!</p>
 
 <hr>
