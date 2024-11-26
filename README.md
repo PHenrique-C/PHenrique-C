@@ -1,4 +1,15 @@
-<h3 align="left">Salve ✌🏾! Meu nome é Paulo Henrique e gostaria de compartilhar um pouco sobre quem sou…</h3><p>Sou um desenvolvedor em início de carreira com uma paixão por backend e uma sólida bagagem em front-end (HTML, CSS, JavaScript, Bootstrap). Estou mergulhando no mundo do Kotlin, Java e Spring Boot, e também trabalhando com JasperSoft Studio e iReport para relatórios. Uso PostgreSQL para queries e integração de dados.<br><br>Adoro colaborar com equipes e ver como a tecnologia pode transformar o dia a dia das pessoas. Recentemente, ajudei a criar um sistema de agendamento para um petshop. Sempre valorizo responsabilidade e cooperação!</p>
+<h3 align="left">Salve ✌🏾! Meu nome é Paulo Henrique e gostaria de compartilhar um pouco sobre quem sou…</h3>
+<p>Sou um apaixonado por back-end, mas também tenho uma base sólida no front-end (HTML, CSS, JavaScript, Bootstrap, JQuery e AJAX). Durante minha jornada, me dediquei a criar interfaces intuitivas e implementar funcionalidades essenciais no lado do servidor, como CRUDs, integrações com APIs e manipulação de banco de dados.
+
+Atualmente, estou focado em melhorar minhas habilidades com Kotlin, Java, C#, Spring Boot, ASP.NET e Entity Framework. Para relatórios, já trabalhei bastante com JasperSoft Studio e iReport, criando templates .jrxml como se não houvesse amanhã. Quando o assunto é banco de dados, brinco bem com SQL Server, MySQL e PostgreSQL para consultas e integrações.
+
+No lado visual da força, curto criar telas limpas e funcionais, garantindo que a experiência seja tão boa quanto o código que roda por trás.
+
+🚀 Curto trabalhar em equipe! Acredito que colaboração e boas ideias sempre resultam em soluções incríveis. Valorizo responsabilidade, cooperação e aquele clima de parceria para entregar projetos que realmente fazem a diferença.
+
+Ah, e um dos meus últimos desafios foi ajudar a criar um sistema de agendamento para um petshop 🐾— sim, até os pets ganham com tecnologia!
+
+Bora construir algo juntos? 🚀</p>
 
 <hr>
 
@@ -25,15 +36,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
 </div>
 
 ###
