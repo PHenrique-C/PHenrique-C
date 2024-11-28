@@ -1,5 +1,5 @@
 <h3 align="left">Salve ✌🏾! Meu nome é Paulo Henrique e gostaria de compartilhar um pouco sobre quem sou…</h3>
-<p>Sou um apaixonado por back-end, mas também tenho uma base sólida no front-end (HTML, CSS, JavaScript, Bootstrap, JQuery e AJAX). Durante minha jornada, me dediquei a criar interfaces intuitivas e implementar funcionalidades essenciais no lado do servidor, como CRUDs, integrações com APIs e manipulação de banco de dados.
+<p>Meu foco principal é o back-end, mas também tenho uma base sólida no front-end (HTML, CSS, JavaScript, Bootstrap, JQuery e AJAX). Durante minha jornada, me dediquei a criar interfaces intuitivas e implementar funcionalidades essenciais no lado do servidor, como CRUDs, integrações com APIs e manipulação de banco de dados.
 
 Atualmente, estou focado em melhorar minhas habilidades com Kotlin, Java, C#, Spring Boot, ASP.NET e Entity Framework. Para relatórios, já trabalhei bastante com JasperSoft Studio e iReport, criando templates .jrxml como se não houvesse amanhã. Quando o assunto é banco de dados, brinco bem com SQL Server, MySQL e PostgreSQL para consultas e integrações.
 
